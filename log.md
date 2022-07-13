@@ -31,10 +31,87 @@
 
 ### Day 1: July 13, 2022 
 
+**Today's Progress**: Today I went through W3School JS Quiz and JS Exercises
+
+**Thoughts**: Even though I got a bit of a cold I was able to go through the quizes and exerceises effortlessly, it was quite basic lvl stuff. For this 10 days I will be focusing on the fundamentals and basics. I was able to spare 1 hr for coding. 
+
+**Link(s) to work**: W3School.com
+
+### Day 2: July 14, 2022 
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
+
+### Day 3: July 15, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 4: July 16, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 5: July 17, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 6: July 18, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 7: July 19, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 8: July 20, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 9: July 21, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 10: July 22, 2022 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+
+
+
 
 
